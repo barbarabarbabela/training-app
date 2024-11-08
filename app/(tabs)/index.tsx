@@ -10,7 +10,7 @@ import {
 
 export default function Home() {
   const handleInstagramLink = () => {
-    Linking.openURL("https://www.example.com");
+    Linking.openURL("https://www.instagaram.com/oncasdovalerugby");
   };
 
   const handleEmailLink = () => {
